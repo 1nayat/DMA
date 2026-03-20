@@ -9,7 +9,7 @@ It supports structured file storage, role-based access control, and document lif
 
 Features:-
 
-JWT Authentication
+JWT Authentication  
 Role-Based Access Control (Admin / User)
 Secure Document Upload
 Document Status Management
