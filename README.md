@@ -7,7 +7,7 @@ Overview
 This application allows organizations to manage digital documents securely with proper authentication, authorization, and status tracking.
 It supports structured file storage, role-based access control, and document lifecycle management.
 
-Features:-
+Features:- 
  
 JWT Authentication  
 Role-Based Access Control (Admin / User)  
