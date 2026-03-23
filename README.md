@@ -14,7 +14,7 @@ Role-Based Access Control (Admin / User)
 Secure Document Upload
 Document Status Management
 File Storage in Server (wwwroot/uploads)
-RESTful API Architecture 
+RESTful API Architecture   
 Angular Frontend Integration
 Entity Framework Core with Migrations
   
